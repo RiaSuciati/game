@@ -1,0 +1,27 @@
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game\shuffle\shuffle\bin\Debug\shuffle.exe.config
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game\shuffle\shuffle\bin\Debug\shuffle.exe
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game\shuffle\shuffle\bin\Debug\shuffle.pdb
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game\shuffle\shuffle\bin\Debug\shuffle.xml
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game\shuffle\shuffle\obj\Debug\shuffle.Form1.resources
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game\shuffle\shuffle\obj\Debug\shuffle.Resources.resources
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game\shuffle\shuffle\obj\Debug\shuffle.vbproj.GenerateResource.Cache
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game\shuffle\shuffle\obj\Debug\shuffle.exe
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game\shuffle\shuffle\obj\Debug\shuffle.xml
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game\shuffle\shuffle\obj\Debug\shuffle.pdb
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game - Copy\shuffle\shuffle\bin\Debug\shuffle.exe.config
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game - Copy\shuffle\shuffle\obj\Debug\shuffle.exe
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game - Copy\shuffle\shuffle\obj\Debug\shuffle.xml
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game - Copy\shuffle\shuffle\obj\Debug\shuffle.pdb
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game - Copy\shuffle\shuffle\obj\Debug\shuffle.Form1.resources
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game - Copy\shuffle\shuffle\obj\Debug\shuffle.MDIParent1.resources
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game - Copy\shuffle\shuffle\obj\Debug\shuffle.Resources.resources
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game - Copy\shuffle\shuffle\obj\Debug\shuffle.vbproj.GenerateResource.Cache
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game - Copy\shuffle\shuffle\bin\Debug\shuffle.exe
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game - Copy\shuffle\shuffle\bin\Debug\shuffle.pdb
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game - Copy\shuffle\shuffle\bin\Debug\shuffle.xml
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game - Copy\shuffle\shuffle\obj\Debug\shuffle.Level1.resources
+F:\coLLeGe\Semester 4 PTI off B 2011\Pemrograman Visual\Shuffle Game - Copy\shuffle\shuffle\obj\Debug\shuffle.Level3.resources
+E:\KULIAH\TA VB\shuffle\shuffle\bin\Debug\shuffle.exe.config
+E:\KULIAH\TA VB\shuffle\shuffle\obj\Debug\shuffle.exe
+E:\KULIAH\TA VB\shuffle\shuffle\obj\Debug\shuffle.xml
+E:\KULIAH\TA VB\shuffle\shuffle\obj\Debug\shuffle.pdb
